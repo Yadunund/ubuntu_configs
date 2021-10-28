@@ -10,3 +10,8 @@ cp terminator/confg ~/.config/terminator
 ```bash
 cp vim/.vimrc ~/.vimrc
 ```
+
+## Git
+```bash
+cp git/.gitconfig ~/.gitconfig
+```
