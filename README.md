@@ -2,8 +2,9 @@
 Configuration files for various applications in Ubuntu
 
 ## Terminator
-
+```bash
 cp terminator/confg ~/.config/terminator
+```
 
 ## Vim
 
